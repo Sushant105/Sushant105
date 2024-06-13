@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cursive&weight=600&size=34&duration=3000&pause=1000&color=F7F7F7D2&background=FFFFFF00&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on LTTS<br>🤝 I’m looking for help with ReactJs and JavaScript<br>🌱 I’m currently learning ReactJs and AngularJs<br>📫 How to reach me sushants105@gmail.com<br>⚡ Fun fact I am Punjabi Munda<br>
+🔭 I’m currently working in LTTS<br>🤝 I’m looking for help with ReactJs and JavaScript<br>🌱 I’m currently learning ReactJs and AngularJs<br>📫 How to reach me sushants105@gmail.com<br>⚡ Fun fact I am Punjabi Munda<br>
 
 
 ## 🌐 Socials:
